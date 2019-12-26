@@ -1,4 +1,4 @@
-  
+
 // Custom Hook by Dan Abramov
 import { useEffect, useRef } from 'react';
 
